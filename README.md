@@ -1,11 +1,10 @@
 # Chat App
 Realtime chat app with websockets using Node.js, Express and Socket.io 
 
-## Usage
+## Follow these Steps
 ```
-npm install
-npm start
-
-Go to localhost:3000
+1.npm install
+2.npm start
+3.Go to localhost:3000
 ```
 
